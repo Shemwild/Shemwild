@@ -1,0 +1,22 @@
+{
+  "github_username": "Shemwild",
+  "display_name": "Shemwild",
+  "wordmark_text": "SHEMWILD",
+  "skills": [
+    "Python",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "SQL"
+  ],
+  "social_links": [
+    {
+      "label": "GitHub",
+      "value": "Shemwild",
+      "url": "https://github.com/Shemwild",
+      "color": "0d1117",
+      "logo": "github"
+    }
+  ]
+}
